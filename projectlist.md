@@ -205,6 +205,19 @@
 | 203 | Fake review detection - ML                                                                         | Data Analysis, Machine Learning, Fullstack   |
 | 204 | Ezcema and Psoriasis Skin Detection - Android AI app                                               | Healthcare, Dermatology, Mobile App Development, Fullstack|
 | 205 | Bloom Question Generator : AI ML                                                                    | Education, AI, Machine Learning, Fullstack   |
-| 206 | Text domain classifier for college : ML                                                             | Education, Machine Learning, Fullstack       |
+| 206 | Text Domain classifier for college : ML                                                             | Education, Machine Learning, Fullstack       |
 | 207 | Multi traffic perception : ML                                                                       | Transportation, Machine Learning, Fullstack  |
 | 208 | College CHATBOT : AI ML                                                                            | Education, Chatbot, Fullstack                 |
+| 209 | Semantic segmentation of remote sensing images : Deep Learning                                      |Deep Learning, Machine Learning|
+| 210 | Smart Voting System Decentralized : Blockchain Technology      | Blockchain |
+| 211 | Incorporating Deep Learning to Detect Suspicious Activity | Deep Learning, Machine Learning |
+| 212 | Air Quality Index Forecasting : IOT | Data Science, Machine Learning |
+| 213 | Fake Product Detection : BlockChain Technology | BlockChain Technolog, Machine Learning |
+| 214 | Approach for Drug Traceability in Healthcare Supply - BlockChain |Block Chain, Python |
+| 215 | Smart ticket System for Urban Innovation using BlockChain | BlockChain, Python |
+| 216 | Predictive modeling of delirium : Machine Learning | Machine Learning, Python |
+| 217 | Health Monitoring System App : Android | IOT, Android, Thinkgspeak |
+| 218 | Secure Data integrity In Cloud Based WareHouse: Cloud Security | Python, Cloud Security|
+| 219 | Realtime Video Dehazing : Deep Learning | Machien Learning, Python |
+| 220 | Sports Management Application : Android | Progressive, Android App |
+| 221 | Ddos Detection using ANN : Neural Networks | Cyber, Machine Learning, ANN |
