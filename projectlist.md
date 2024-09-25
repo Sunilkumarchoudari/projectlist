@@ -221,3 +221,16 @@
 | 219 | Realtime Video Dehazing : Deep Learning | Machien Learning, Python |
 | 220 | Sports Management Application : Android | Progressive, Android App |
 | 221 | Ddos Detection using ANN : Neural Networks | Cyber, Machine Learning, ANN |
+| 222 | Smart Baby Monitoring System | Machine Learning |
+| 223 | Smart Public Lighting System | IOT, Machine Learning |
+| 224 | Finding Optimal Paths Using DNN | Deep Learning |
+| 225 | Enviromental Monitoring System | IOT, Webapp |
+| 226 | Womens Safety Application | Machine Learning and AI, Mobile app |
+| 227 | Personal Financial Manager | AI + Webapp |
+| 228 | IMDB Sentiment Analysis | NLP + Webapp + ML |
+| 229 | AI-Powered Virtual Fashion Assistant | AI + ML + DL |
+| 230 | Fingerprint Blood Group Detection | CNN + ML |
+| 231 | Voice-Based Email for the Blind | Machine Learning + NLP |
+| 232 | BattleCard Generator - AI App | Web Application + ML + NLP |
+| 233 | NLP Content Search Engine | Webapp + ML + NLP |
+| 234 | Human Sign Language Recognition | ML + NN |
