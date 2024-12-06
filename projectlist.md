@@ -234,3 +234,11 @@
 | 232 | BattleCard Generator - AI App | Web Application + ML + NLP |
 | 233 | NLP Content Search Engine | Webapp + ML + NLP |
 | 234 | Human Sign Language Recognition | ML + NN |
+| 235 | IMDB Sentiment Analysis | NLP + ML |
+| 236 | Cyber Threat Detection Based on ANN | ANN + ML |
+| 237 | Genome Disorder Detection | DL + ANN + ML |
+| 238 | Intrusion Detection System | GAN + ML |
+| 239 | College Project Management System | Flask + Mongo + Python |
+| 240 | Enhancing Indoor Exploration through Augmentation Reality | Mobile App + AR |
+| 241 | Cervical Spine Fracture Detection | DL + ML |
+| 242 | Encrypted User Chat window Mobile App For Militery | Flask + Python |
