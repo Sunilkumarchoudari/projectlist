@@ -242,3 +242,6 @@
 | 240 | Enhancing Indoor Exploration through Augmentation Reality | Mobile App + AR |
 | 241 | Cervical Spine Fracture Detection | DL + ML |
 | 242 | Encrypted User Chat window Mobile App For Militery | Flask + Python |
+| 243 | Personal AI Finance Manager | Django + Python + ML |
+| 244 | Ai Powered Interior Desing Application | DL + NLP + AI |
+| 245 | Ai Voice Bot for Interactive Job Interview | NLP + Generative AI |
