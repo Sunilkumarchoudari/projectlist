@@ -249,3 +249,4 @@
 | 247 | Cloud based SQL Injection Detection | ML + Generative AI + Python |
 | 248 | DDoS Attack Mitigation on Cloud Infrastructure | AWS + ML + Generative AI + Python |
 | 249 | AI Powered Student Assistance | Generative AI + React + ML |
+| 250 | Traffic Weather and Management System | DL + ML + Python |
