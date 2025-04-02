@@ -245,3 +245,7 @@
 | 243 | Personal AI Finance Manager | Django + Python + ML |
 | 244 | Ai Powered Interior Desing Application | DL + NLP + AI |
 | 245 | Ai Voice Bot for Interactive Job Interview | NLP + Generative AI |
+| 246 | Detection of Humans in Search and Rescue Operations | ML + DL + YOLO + Python |
+| 247 | Cloud based SQL Injection Detection | ML + Generative AI + Python |
+| 248 | DDoS Attack Mitigation on Cloud Infrastructure | AWS + ML + Generative AI + Python |
+| 249 | AI Powered Student Assistance | Generative AI + React + ML |
